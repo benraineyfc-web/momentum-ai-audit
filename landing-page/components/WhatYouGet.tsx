@@ -1,103 +1,116 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { CheckCircle2, ArrowRight } from 'lucide-react';
+import { Map, Shield, Calendar, TrendingUp, Video } from 'lucide-react';
 
 export default function WhatYouGet() {
   const deliverables = [
     {
+      icon: Map,
       title: "AI Opportunity Map",
-      description: "Revenue wins + efficiency gains ranked by impact and effort"
+      description: "Every process in your business ranked by automation potential and ROI",
+      size: "large"
     },
     {
-      title: "AI Risk Map",
-      description: "Security gaps, compliance issues, and data exposure points"
+      icon: Shield,
+      title: "AI Risk Assessment",
+      description: "What to automate, what to leave alone, and where to be careful",
+      size: "small"
     },
     {
-      title: "30/60/90 Day AI Roadmap",
-      description: "Prioritised action plan with quick wins and long-term strategy"
+      icon: Calendar,
+      title: "30/60/90 Day Roadmap",
+      description: "Phased implementation plan so you know exactly what to do and when",
+      size: "small"
     },
     {
+      icon: TrendingUp,
       title: "ROI Snapshot",
-      description: "Time saved, cost saved, and revenue potential (conservative estimates)"
+      description: "Projected time and cost savings for each recommendation, with real numbers",
+      size: "large"
     },
     {
-      title: "Implementation Plan",
-      description: "Exact tools, timeline, and investment range (implement yourself or hire us)"
+      icon: Video,
+      title: "Loom Video Walkthrough",
+      description: "A personal video walking you through every recommendation, so nothing gets lost in translation",
+      size: "full"
     }
   ];
 
-  const process = [
-    { step: "1", action: "Book", detail: "Fill out 5-min form" },
-    { step: "2", action: "Intake Form", detail: "We scan your systems" },
-    { step: "3", action: "90-Min Deep Dive", detail: "Zoom call walkthrough" },
-    { step: "4", action: "Your Roadmap", detail: "Delivered within 48hrs" }
-  ];
+  const containerVariants = {
+    hidden: { opacity: 0 },
+    visible: {
+      opacity: 1,
+      transition: {
+        staggerChildren: 0.1,
+      },
+    },
+  };
+
+  const itemVariants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: {
+      opacity: 1,
+      y: 0,
+      transition: { duration: 0.6 },
+    },
+  };
 
   return (
-    <section className="py-20 px-4 bg-white">
-      <div className="max-w-5xl mx-auto">
+    <section id="what-you-get" className="relative py-24 md:py-32 px-4 overflow-hidden">
+      {/* Background */}
+      <div className="absolute inset-0 bg-neutral-950" />
+      <div className="glow-purple" style={{ top: '30%', right: '-10%' }} />
+
+      <div className="relative z-10 max-w-6xl mx-auto">
+        {/* Header */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          className="text-center mb-12"
+          viewport={{ once: true, margin: "-100px" }}
+          className="text-center mb-16"
         >
-          <h2 className="text-4xl font-bold text-neutral-900 mb-4">
-            What You Get
+          <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-blue-500/10 text-blue-400 border border-blue-500/20 mb-6">
+            WHAT YOU GET
+          </span>
+          <h2 className="text-3xl md:text-5xl font-bold text-white mb-6">
+            Your Complete AI Opportunity Blueprint
           </h2>
-          <p className="text-xl text-neutral-600">
-            A complete AI systems audit delivered in 48 hours
+          <p className="text-lg md:text-xl text-zinc-400 max-w-3xl mx-auto">
+            Not a generic PDF. A bespoke, actionable plan built around your business.
           </p>
         </motion.div>
 
-        {/* Deliverables */}
-        <div className="grid md:grid-cols-2 gap-6 mb-16">
-          {deliverables.map((item, index) => (
-            <motion.div
-              key={index}
-              initial={{ opacity: 0, y: 20 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ delay: index * 0.1 }}
-              className="flex gap-4 p-6 bg-neutral-50 rounded-lg hover:bg-neutral-100 transition-colors"
-            >
-              <CheckCircle2 className="w-6 h-6 text-accent flex-shrink-0 mt-1" />
-              <div>
-                <h3 className="text-xl font-semibold text-neutral-900 mb-2">
+        {/* Bento Grid */}
+        <motion.div
+          variants={containerVariants}
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true, margin: "-100px" }}
+          className="grid grid-cols-1 md:grid-cols-2 gap-6"
+        >
+          {deliverables.map((item, index) => {
+            const Icon = item.icon;
+            const colSpan = item.size === "large" ? "md:col-span-1" : item.size === "full" ? "md:col-span-2" : "md:col-span-1";
+
+            return (
+              <motion.div
+                key={index}
+                variants={itemVariants}
+                className={`glass-card p-8 ${colSpan}`}
+              >
+                <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-blue-500/20 to-purple-500/20 border border-blue-500/20 flex items-center justify-center mb-6">
+                  <Icon className="w-6 h-6 text-blue-400" />
+                </div>
+                <h3 className="text-xl font-semibold text-white mb-3">
                   {item.title}
                 </h3>
-                <p className="text-neutral-600">{item.description}</p>
-              </div>
-            </motion.div>
-          ))}
-        </div>
-
-        {/* Process Flow */}
-        <motion.div
-          initial={{ opacity: 0 }}
-          whileInView={{ opacity: 1 }}
-          viewport={{ once: true }}
-          className="bg-gradient-to-br from-primary/5 to-secondary/5 p-8 rounded-lg"
-        >
-          <h3 className="text-2xl font-bold text-center mb-8">How It Works</h3>
-          <div className="grid md:grid-cols-4 gap-4 relative">
-            {process.map((item, index) => (
-              <div key={index} className="text-center relative">
-                <div className="w-12 h-12 bg-primary text-white rounded-full flex items-center justify-center text-xl font-bold mx-auto mb-4">
-                  {item.step}
-                </div>
-                <h4 className="font-semibold text-neutral-900 mb-2">{item.action}</h4>
-                <p className="text-sm text-neutral-600">{item.detail}</p>
-                {index < process.length - 1 && (
-                  <ArrowRight className="w-6 h-6 text-neutral-400 absolute right-0 top-4 -mr-3 hidden md:block" />
-                )}
-              </div>
-            ))}
-          </div>
-          <p className="text-center text-neutral-600 mt-8">
-            <strong>Timeline:</strong> Roadmap delivered within 48 hours of your call
-          </p>
+                <p className="text-zinc-400 leading-relaxed">
+                  {item.description}
+                </p>
+              </motion.div>
+            );
+          })}
         </motion.div>
       </div>
     </section>

@@ -5,41 +5,41 @@ import Link from 'next/link';
 
 export default function FinalCTA() {
   return (
-    <section className="py-20 px-4 bg-gradient-to-br from-primary to-secondary text-white">
-      <div className="max-w-4xl mx-auto text-center">
+    <section id="booking" className="relative py-24 md:py-32 px-4 overflow-hidden">
+      {/* Gradient Background */}
+      <div className="absolute inset-0 bg-gradient-to-br from-blue-600/20 via-purple-600/20 to-blue-600/20" />
+      <div className="absolute inset-0 bg-neutral-950/80" />
+
+      {/* Glows */}
+      <div className="glow-blue" style={{ top: '20%', left: '20%' }} />
+      <div className="glow-purple" style={{ bottom: '20%', right: '20%' }} />
+
+      <div className="relative z-10 max-w-4xl mx-auto text-center">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
+          viewport={{ once: true, margin: "-100px" }}
         >
-          <h2 className="text-5xl font-bold mb-6">
-            Stop Guessing. Start Building.
+          <h2 className="text-4xl md:text-6xl font-bold text-white mb-6">
+            Ready to See What AI Can Do for Your Business?
           </h2>
-          <p className="text-xl mb-8 text-white/90">
-            90-minute audit. Clear roadmap. Zero obligation. £497.
+          <p className="text-xl md:text-2xl text-zinc-400 mb-10 max-w-2xl mx-auto">
+            Book your audit today. Get your roadmap in 5 days.
           </p>
 
           <Link
             href="#booking"
-            className="inline-block bg-white text-primary hover:bg-neutral-100 font-semibold px-10 py-5 rounded-lg text-xl transition-colors mb-8"
+            className="inline-block bg-blue-600 hover:bg-blue-500 text-white font-semibold px-10 py-5 rounded-xl text-xl transition-all duration-300 cta-glow mb-6"
           >
-            Book Your AI Audit Now
+            Book Your AI Audit — £497
           </Link>
 
-          <div className="flex flex-wrap justify-center gap-6 text-sm text-white/80 mt-8">
-            <span>✓ UK-Based</span>
-            <span>✓ No Ongoing Commitment</span>
-            <span>✓ Results in 48 Hours</span>
-            <span>✓ Founder-Led</span>
-          </div>
-
-          <div className="mt-12 pt-8 border-t border-white/20">
-            <p className="text-white/70 mb-2">Founder</p>
-            <p className="text-lg font-semibold">Ben Rainey</p>
-            <p className="text-white/70 mt-4">
-              I help UK businesses save 10–20hrs/week using AI—without the jargon.
-            </p>
-          </div>
+          <p className="text-zinc-500 text-sm">
+            Questions first? Email{' '}
+            <a href="mailto:hello@momentum.ai" className="text-blue-400 hover:text-blue-300 transition-colors">
+              hello@momentum.ai
+            </a>
+          </p>
         </motion.div>
       </div>
     </section>
