@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" fill="none">
+  <!-- Icon: Forward Arrow Symbol -->
+  <g id="icon">
+    <path d="M10 40 L30 20 L30 35 L50 35 L50 45 L30 45 L30 60 Z" fill="#1E40AF"/>
+    <path d="M25 40 L45 20 L45 35 L65 35 L65 45 L45 45 L45 60 Z" fill="#06B6D4" opacity="0.7"/>
+  </g>
+
+  <!-- Wordmark: "momentum" -->
+  <text x="80" y="52" font-family="Inter, sans-serif" font-weight="700" font-size="32" fill="#111827">
+    momentum
+  </text>
+</svg>
