@@ -3,6 +3,7 @@ import Problem from '@/components/Problem';
 import WhatYouGet from '@/components/WhatYouGet';
 import Pricing from '@/components/Pricing';
 import FAQ from '@/components/FAQ';
+import AuditForm from '@/components/AuditForm/AuditForm';
 import FinalCTA from '@/components/FinalCTA';
 
 export default function Home() {
@@ -13,6 +14,7 @@ export default function Home() {
       <WhatYouGet />
       <Pricing />
       <FAQ />
+      <AuditForm />
       <FinalCTA />
     </main>
   );
