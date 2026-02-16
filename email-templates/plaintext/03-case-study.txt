@@ -1,0 +1,45 @@
+Subject: How a 12-person firm saved 37 hours a month (without hiring anyone)
+Preview: A recruitment agency in Leeds automated their way out of admin hell. Here's exactly what they did.
+
+---
+
+CASE STUDY
+"We got 37 hours a month back. It felt like hiring someone for free."
+
+Hey {{FIRST_NAME}},
+
+Quick story about a business like yours.
+
+Bright Talent is a 12-person recruitment agency in Leeds. They were growing, but drowning in admin. Their consultants were spending more time on data entry and candidate follow-ups than actually recruiting.
+
+THE PROBLEM:
+- Manually copying candidate info between their CRM and job boards
+- Sending the same follow-up emails by hand, dozens of times a day
+- Formatting CVs into their branded template one-by-one
+- Chasing hiring managers for feedback via email
+
+WHAT WE BUILT:
+- Auto-sync between their CRM and three job boards
+- AI-powered email sequences that sent personalised follow-ups based on candidate stage
+- A CV formatting bot that converted any CV into their brand template in seconds
+- Automated Slack nudges to hiring managers when feedback was overdue
+
+THE RESULTS (after 90 days):
+
+37 hours/month saved
+£2,400/month cost reduction
+23% faster placements
+
+The best part? Their consultants didn't need to learn anything new. The automations just worked in the background. They went from "we need to hire another admin person" to "actually, we're fine."
+
+Your report will show similar opportunities specific to {{BUSINESS_NAME}}. It's nearly ready.
+
+Talk soon,
+The bizflow.io team
+
+---
+
+bizflow.io | AI Automation for UK Businesses
+You're receiving this because you requested an AI scan at bizflow.io.
+Unsubscribe: {{UNSUBSCRIBE_LINK}}
+Privacy Policy: https://bizflow.io/privacy

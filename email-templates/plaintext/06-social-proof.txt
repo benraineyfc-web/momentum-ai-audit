@@ -1,0 +1,45 @@
+Subject: "I wish I'd done this a year ago" -- Sarah, e-commerce founder
+Preview: Real results from real UK businesses. No fluff, just numbers.
+
+---
+
+Don't take our word for it.
+
+Hey {{FIRST_NAME}},
+
+We can talk about automation all day. But you probably want to hear from people who've actually done it. Here's what a few of our clients have to say:
+
+
+"We were spending 2 full days a week just processing orders and updating spreadsheets. bizflow automated the entire thing in about three weeks. Now it takes 20 minutes. I wish I'd done this a year ago."
+
+— Sarah K., Founder, Mosaic Home (e-commerce, 8 staff)
+Results: 14 hrs/week saved | £1,800/month saved
+
+
+"I was sceptical. I thought AI was just a buzzword. But they showed me exactly where I was wasting time and built automations that genuinely work. Our response time to new leads went from 4 hours to under 5 minutes."
+
+— James T., Director, Apex Property Services (property management, 22 staff)
+Results: Lead response 4hrs to 5min | 31% more conversions
+
+
+"The ROI was obvious within the first month. They automated our client onboarding, invoicing follow-ups, and reporting. My ops manager said it felt like hiring two new people."
+
+— Lisa M., Managing Director, Clearview Accounting (accountancy practice, 15 staff)
+Results: ROI in 4 weeks | £3,200/month saved
+
+
+These are normal UK businesses. Not tech companies. Not enterprises. Just owners who decided to stop doing things the hard way.
+
+Your report already shows what's possible for {{BUSINESS_NAME}}. Ready to talk about making it happen?
+
+BOOK YOUR FREE STRATEGY CALL: https://bizflow.io/book-call
+
+Cheers,
+The bizflow.io team
+
+---
+
+bizflow.io | AI Automation for UK Businesses
+You're receiving this because you requested an AI scan at bizflow.io.
+Unsubscribe: {{UNSUBSCRIBE_LINK}}
+Privacy Policy: https://bizflow.io/privacy

@@ -1,0 +1,47 @@
+Subject: The 5-minute test to find your biggest time wasters
+Preview: A dead simple exercise that shows you exactly where automation would save you the most time.
+
+---
+
+The 5-minute automation audit you can do right now.
+
+Hey {{FIRST_NAME}},
+
+Here's a practical exercise we give every new client. It takes 5 minutes and it'll change how you think about your daily work.
+
+THE "IF / THEN / EVERY" TEST
+
+Grab a piece of paper (or open a note on your phone). Think about your last working day. Write down every task that fits this pattern:
+
+IF [something happens]
+THEN [I do this same thing]
+EVERY [time / day / week]
+
+Examples:
+
+- IF a new enquiry comes in THEN I add them to a spreadsheet and send a welcome email EVERY time
+
+- IF it's Monday morning THEN I pull together last week's sales numbers into a report EVERY week
+
+- IF a project is completed THEN I send the invoice and update the project tracker EVERY time
+
+- IF a customer asks about delivery times THEN I look it up and reply with the same info EVERY day
+
+
+THE RULE OF THUMB:
+
+If a task follows an IF/THEN/EVERY pattern, it can almost certainly be automated. Most business owners who do this exercise find 8-15 automatable tasks in a single day. That's hours of work that doesn't need a human.
+
+Try it. You might be surprised how much of your day is spent on autopilot tasks that actual autopilot could handle.
+
+And if you want to compare notes, your AI report already has our analysis of the biggest opportunities at {{BUSINESS_NAME}}: {{REPORT_LINK}}
+
+Cheers,
+The bizflow.io team
+
+---
+
+bizflow.io | AI Automation for UK Businesses
+You're receiving this because you requested an AI scan at bizflow.io.
+Unsubscribe: {{UNSUBSCRIBE_LINK}}
+Privacy Policy: https://bizflow.io/privacy

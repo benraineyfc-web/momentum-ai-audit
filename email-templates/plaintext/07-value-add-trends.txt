@@ -1,0 +1,48 @@
+Subject: The AI stuff that actually matters for your business (and the stuff that doesn't)
+Preview: Cutting through the hype. 3 AI trends that'll impact UK SMEs this year — and 2 you can safely ignore.
+
+---
+
+AI for SMEs: what to pay attention to (and what to ignore)
+
+Hey {{FIRST_NAME}},
+
+There's a lot of AI noise out there. Every day there's a new tool, a new headline, a new "this changes everything" post on LinkedIn. Most of it is irrelevant to businesses like {{BUSINESS_NAME}}.
+
+So here's our honest take. Three things worth paying attention to, and two things you can safely ignore.
+
+
+WORTH YOUR ATTENTION:
+
+1. AI-powered customer communication
+Smart chatbots and email responders have gotten genuinely good. Not the clunky "press 1 for sales" rubbish. We're talking tools that understand context, answer real questions, and hand off to a human when needed. This is saving SMEs 10-20 hours a week on customer support alone.
+
+2. Workflow automation between your existing tools
+The real magic isn't in any single AI tool. It's in connecting the tools you already use so data flows automatically. CRM to invoicing. Form submissions to project management. Email to spreadsheet. These "bridges" between your tools eliminate most of the copy-paste busywork in a typical business.
+
+3. AI-assisted content and proposal generation
+Writing proposals, reports, and marketing content used to eat up entire afternoons. AI tools can now draft these from your templates, data, and tone of voice in minutes. You still review and approve everything, but the first draft is done for you.
+
+
+SAFE TO IGNORE:
+
+"AI will replace all your employees"
+No it won't. Not for SMEs. AI handles repetitive tasks so your people can do higher-value work. Think of it as a power tool, not a replacement worker. Your team gets more done, not made redundant.
+
+"You need to build your own AI model"
+Absolutely not. That's for tech companies with massive R&D budgets. For SMEs, off-the-shelf AI tools connected properly to your business are far more effective. Don't build — configure.
+
+
+The takeaway? Focus on practical automation that saves time and money today. Skip the hype.
+
+That's exactly what your AI report is built around. If you haven't had a chance to review it yet, here it is: {{REPORT_LINK}}
+
+Cheers,
+The bizflow.io team
+
+---
+
+bizflow.io | AI Automation for UK Businesses
+You're receiving this because you requested an AI scan at bizflow.io.
+Unsubscribe: {{UNSUBSCRIBE_LINK}}
+Privacy Policy: https://bizflow.io/privacy

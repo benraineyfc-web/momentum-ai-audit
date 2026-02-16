@@ -1,0 +1,38 @@
+Subject: {{FIRST_NAME}}, steal this automation (it's free)
+Preview: One thing you can automate right now that'll save you 5+ hours a month. No tech skills needed.
+
+---
+
+Here's a free automation you can set up before lunch.
+
+Hey {{FIRST_NAME}},
+
+While we're building your report, here's something you can do right now that costs nothing and saves real time.
+
+AUTOMATE YOUR INVOICE CHASING.
+
+If you're manually sending "just checking in on that invoice" emails, stop. Here's how to automate it in 15 minutes:
+
+1. Sign up for Zapier (free plan). Go to zapier.com. Free tier gives you 100 tasks/month. That's plenty for this.
+
+2. Connect your invoicing tool (Xero, QuickBooks, FreshBooks, whatever you use).
+
+3. Set a trigger: "When invoice is overdue by 3 days."
+
+4. Set the action: Send a polite follow-up email automatically. Write one good template and let it run.
+
+RESULT: Most of our clients who do this get paid 8-12 days faster on average. That's real cash flow improvement from 15 minutes of setup.
+
+This is one tiny automation. Your full report will show you dozens of opportunities like this across {{BUSINESS_NAME}}.
+
+Give it a go. Seriously. 15 minutes.
+
+More soon,
+The bizflow.io team
+
+---
+
+bizflow.io | AI Automation for UK Businesses
+You're receiving this because you requested an AI scan at bizflow.io.
+Unsubscribe: {{UNSUBSCRIBE_LINK}}
+Privacy Policy: https://bizflow.io/privacy

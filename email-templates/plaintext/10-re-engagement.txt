@@ -1,0 +1,50 @@
+Subject: {{FIRST_NAME}}, we've got something for you (before we close your file)
+Preview: A special offer to get started, plus a quick way to see if automation is right for you right now.
+
+---
+
+Still on the fence? Fair enough.
+
+Hey {{FIRST_NAME}},
+
+It's been a few weeks since your AI scan. Life gets busy. We get it.
+
+Maybe the timing wasn't right. Maybe you had bigger fish to fry. Maybe you're still not sure if automation is worth it for {{BUSINESS_NAME}}.
+
+All valid. But before we close your file, we wanted to do two things:
+
+
+1. MAKE YOU AN OFFER
+
+Your first automation is on us.
+
+Book a strategy call this week and we'll build your first automation for free. No strings, no commitment to anything else. We'll pick the highest-impact, quickest-win automation from your report and implement it at no cost.
+
+Why? Because once you see it working, you'll understand why our clients stay. We're that confident.
+
+
+2. ASK YOU A QUESTION
+
+What's actually holding you back?
+
+Seriously. Just hit reply and tell us. Is it timing? Budget? Trust? Not sure where to start? We've heard it all, and there's usually a straightforward answer. No sales pitch, we'll just give you an honest response.
+
+
+CLAIM YOUR FREE AUTOMATION: https://bizflow.io/book-call?offer=first-free
+Book a call this week to claim the offer.
+
+Or just reply to this email and tell us what's on your mind.
+
+---
+
+Either way, this is the last email in this sequence. We won't keep pestering you. If now isn't the right time, that's genuinely fine. Your report will stay available whenever you're ready.
+
+All the best,
+The bizflow.io team
+
+---
+
+bizflow.io | AI Automation for UK Businesses
+You're receiving this because you requested an AI scan at bizflow.io.
+Unsubscribe: {{UNSUBSCRIBE_LINK}}
+Privacy Policy: https://bizflow.io/privacy

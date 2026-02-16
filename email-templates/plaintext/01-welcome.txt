@@ -1,0 +1,40 @@
+Subject: We've got your scan, {{FIRST_NAME}} — here's what happens next
+Preview: Your personalised AI report lands in 48 hours. Plus a quick win you can use today.
+
+---
+
+Nice one, {{FIRST_NAME}}. Your AI scan is in.
+
+We've received your details for {{BUSINESS_NAME}} and our team is already digging in.
+
+Here's what happens now:
+
+RIGHT NOW
+We're analysing your business processes, tech stack, and biggest time drains.
+
+WITHIN 48 HOURS
+You'll get your personalised AI Automation Report with specific recommendations and estimated savings.
+
+No fluff. No generic "you should try ChatGPT" advice. Actual automations mapped to your business.
+
+---
+
+QUICK WIN WHILE YOU WAIT
+
+Set up an auto-reply for your most common customer question.
+
+Think about the question you get asked 5+ times a week. Write up the perfect answer, then set it as a canned response in your email client or a chatbot on your website. Takes 10 minutes. Saves hours every month. That's the kind of thinking we'll be doing across your entire operation.
+
+---
+
+Keep an eye on your inbox. Your report is coming.
+
+Cheers,
+The bizflow.io team
+
+---
+
+bizflow.io | AI Automation for UK Businesses
+You're receiving this because you requested an AI scan at bizflow.io.
+Unsubscribe: {{UNSUBSCRIBE_LINK}}
+Privacy Policy: https://bizflow.io/privacy

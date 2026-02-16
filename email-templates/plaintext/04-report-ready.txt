@@ -1,0 +1,42 @@
+Subject: {{FIRST_NAME}}, your AI report for {{BUSINESS_NAME}} is ready
+Preview: We found some serious opportunities. Here's your personalised automation roadmap.
+
+---
+
+YOUR REPORT IS READY
+The AI Automation Report for {{BUSINESS_NAME}}
+
+Hey {{FIRST_NAME}},
+
+Your personalised AI Automation Report is done. We've gone through your business processes and identified the specific areas where automation will have the biggest impact.
+
+Inside your report, you'll find:
+
+- Your top automation opportunities ranked by impact and ease of implementation
+- Estimated time and cost savings for each recommendation
+- A prioritised 90-day implementation roadmap
+- Quick wins you can action this week with zero budget
+
+VIEW YOUR REPORT: {{REPORT_LINK}}
+
+---
+
+WANT US TO WALK YOU THROUGH IT?
+
+Book a free 20-minute strategy call. We'll go through your report together, answer your questions, and map out what implementation would actually look like. No pressure, no hard sell.
+
+Book your call: https://bizflow.io/book-call
+
+---
+
+Have a look through when you get a chance. Some of the numbers might surprise you.
+
+Cheers,
+The bizflow.io team
+
+---
+
+bizflow.io | AI Automation for UK Businesses
+You're receiving this because you requested an AI scan at bizflow.io.
+Unsubscribe: {{UNSUBSCRIBE_LINK}}
+Privacy Policy: https://bizflow.io/privacy

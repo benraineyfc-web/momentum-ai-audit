@@ -1,0 +1,46 @@
+Subject: "I'm not technical enough for AI" (you don't need to be)
+Preview: The two biggest reasons SME owners hesitate on automation — and why neither one holds up.
+
+---
+
+Let's talk about the two things that stop most business owners.
+
+Hey {{FIRST_NAME}},
+
+You've got your report. Maybe you've had a look. Maybe it's still sitting in your inbox. Either way, we hear the same two concerns from almost every business owner at this stage:
+
+
+"I'M NOT TECHNICAL ENOUGH FOR THIS."
+
+Good news: you don't need to be. You don't need to understand AI, write code, or learn any new software. That's literally our job. We build it. We maintain it. You just get the results.
+
+Think of it like hiring an electrician. You don't need to understand wiring to enjoy having lights that work. Our clients don't know (or care) how the automations work under the hood. They just know their team has more time and their business runs smoother.
+
+
+"I CAN'T AFFORD IT RIGHT NOW."
+
+We get it. Every pound matters. But here's the thing: automation isn't an expense. It's a trade. You're swapping manual hours (which cost you money) for automated processes (which cost a fraction).
+
+Let's do some quick maths:
+
+If you or your team spend 10 hours a month on tasks that could be automated...
+And your loaded cost per hour is £25 (wages + NI + overheads)...
+That's £250/month you're spending on work a robot could do better.
+That's £3,000 a year. And 10 hours is conservative. Most businesses find 20-40+ hours of automatable work.
+
+We price our work so it pays for itself within weeks, not months. If we can't show a clear ROI, we'll tell you straight.
+
+
+LET'S TALK ABOUT YOUR REPORT
+Book a free 20-minute call: https://bizflow.io/book-call
+No commitment.
+
+Cheers,
+The bizflow.io team
+
+---
+
+bizflow.io | AI Automation for UK Businesses
+You're receiving this because you requested an AI scan at bizflow.io.
+Unsubscribe: {{UNSUBSCRIBE_LINK}}
+Privacy Policy: https://bizflow.io/privacy
