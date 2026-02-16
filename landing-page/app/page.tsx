@@ -2,6 +2,7 @@ import Hero from '@/components/Hero';
 import Problem from '@/components/Problem';
 import WhatYouGet from '@/components/WhatYouGet';
 import Pricing from '@/components/Pricing';
+import FAQ from '@/components/FAQ';
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Problem />
       <WhatYouGet />
       <Pricing />
+      <FAQ />
     </main>
   );
 }
